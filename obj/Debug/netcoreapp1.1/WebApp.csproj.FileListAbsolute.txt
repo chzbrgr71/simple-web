@@ -1,0 +1,8 @@
+/Users/chzbrgr71/Documents/Source/simple-web/bin/Debug/netcoreapp1.1/WebApp.deps.json
+/Users/chzbrgr71/Documents/Source/simple-web/bin/Debug/netcoreapp1.1/WebApp.runtimeconfig.json
+/Users/chzbrgr71/Documents/Source/simple-web/bin/Debug/netcoreapp1.1/WebApp.runtimeconfig.dev.json
+/Users/chzbrgr71/Documents/Source/simple-web/bin/Debug/netcoreapp1.1/WebApp.dll
+/Users/chzbrgr71/Documents/Source/simple-web/bin/Debug/netcoreapp1.1/WebApp.pdb
+/Users/chzbrgr71/Documents/Source/simple-web/obj/Debug/netcoreapp1.1/WebApp.AssemblyInfo.cs
+/Users/chzbrgr71/Documents/Source/simple-web/obj/Debug/netcoreapp1.1/WebApp.dll
+/Users/chzbrgr71/Documents/Source/simple-web/obj/Debug/netcoreapp1.1/WebApp.pdb
