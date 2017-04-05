@@ -31,7 +31,7 @@ namespace WebApp
             app.Run(async (context) =>
             {
                 // Gather values for frontend service 
-                string appVersion = "1.0.0";
+                string appVersion = "1.2.0";
                 string frontendName = Environment.MachineName;
 
                 await context.Response.WriteAsync("<h1>.NET Core Web App</h1>");
